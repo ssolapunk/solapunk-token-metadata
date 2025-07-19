@@ -1,0 +1,24 @@
+{
+  "name": "SOLAPUNK",
+  "symbol": "PUNK",
+  "decimals": 9,
+  "description": "SOLAPUNK is the memoutilitarian token of the anti-fiat revolution in the Solana metaverse.",
+  "seller_fee_basis_points": 500,
+  "image": "https://<твое_имя_пользователя>.github.io/solapunk-token-metadata/logo.png",
+  "external_url": "https://solapunk.io",
+  "properties": {
+    "files": [
+      {
+        "uri": "https://<твое_имя_пользователя>.github.io/solapunk-token-metadata/logo.png",
+        "type": "image/png"
+      }
+    ],
+    "category": "image",
+    "creators": [
+      {
+        "address": "3b9VKViwtACpq6cR9P4BqxwKuhsfy8wUtr2tZFtNUaqN",
+        "share": 100
+      }
+    ]
+  }
+}
